@@ -2,9 +2,8 @@
 
 
 -  Estudante de Informática - Instituto Federal de Educação, Ciência e Tecnologia Baiano Campus Guanambi
--  Tenho 16 anos
--  Sou violinista 
--  Apaixonada por Front-End
+-  Violinista 
+-  Dev Front-End em desenvolvimento
 
 <picture>
   <source
@@ -19,14 +18,12 @@
 
 </picture>
 
-## Tecnologias que utilizo e estou em constante aprendizado
+## Tecnologias utilizadas
 
  <div style="display: inline_block"><br>
   <img align="center" alt="Ellis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ellis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ellis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ellis-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-
 </div>
 
 ##
