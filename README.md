@@ -6,9 +6,6 @@
 -  Dev Front-End em desenvolvimento
 
 ## Minhas contribuições
-
-![snake animation](https://raw.githubusercontent.com/elliscarvalho3/elliscarvalho3/output/github-contribution-grid-snake.svg)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elliscarvalho3/elliscarvalho3/output/github-contribution-grid-snake-dark.svg" />
   <img src="https://raw.githubusercontent.com/elliscarvalho3/elliscarvalho3/output/github-contribution-grid-snake.svg" />
