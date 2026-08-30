@@ -1,9 +1,9 @@
 ## Olá! Sou a Ellis Carvalho
 
 
--  Estudante de Informática - Instituto Federal de Educação, Ciência e Tecnologia Baiano Campus Guanambi
+-  Téc. Informática - Instituto Federal de Educação, Ciência e Tecnologia Baiano Campus Guanambi
 -  Violinista 
--  Dev Front-End em desenvolvimento
+-  Desenvolvimento Web (foco em front-end)
 
 ## Minhas contribuições
 <picture>
